@@ -1,10 +1,8 @@
 # Efficient_Graph_Based_Image_Segmentation
 
-Votre texte décrit un algorithme de segmentation d'images basé sur un graphe, en se référant à l'article "Efficient Graph-Based Image Segmentation". Voici votre texte corrigé et légèrement reformulé pour une meilleure clarté :
-
 ---
 
-**Efficient Graph-Based Image Segmentation**
+
 
 L'article peut être trouvé à l'adresse suivante : [Efficient Graph-Based Image Segmentation](https://cs.brown.edu/people/pfelzens/papers/seg-ijcv.pdf).
 
@@ -37,4 +35,3 @@ L'article peut être trouvé à l'adresse suivante : [Efficient Graph-Based Imag
 
 ---
 
-Cette reformulation devrait améliorer la clarté et la précision de la description de votre algorithme.
